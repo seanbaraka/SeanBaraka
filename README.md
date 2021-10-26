@@ -1,6 +1,6 @@
 # I am Sean, Wassup,
 
-![](https://github.com/SeanBaraka/SeanBaraka/blob/master/signal-illustration.svg)
+<img src="https://github.com/SeanBaraka/SeanBaraka/blob/master/signal-illustration.svg" />
 
 [![Lets Connect](https://github.com/SeanBaraka/SeanBaraka/blob/master/connect-button.svg)](https://github.com/SeanBaraka)
 
